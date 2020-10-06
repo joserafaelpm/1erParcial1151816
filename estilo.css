@@ -46,4 +46,18 @@ queEs{
         width: 280px;
         height: 250px;
     }
+    #colombia-covid {
+    padding-bottom: 300px;
+}
+footer {
+    background-color: #0c27a8;
+}
+.general>p {
+    font-size: 1.1em;
+}
+.muestraDatos {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
