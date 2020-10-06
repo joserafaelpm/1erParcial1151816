@@ -18,7 +18,7 @@
     margin-top: -2;
     padding-bottom: 12px;
 }
-queEs{
+.queEs{
     height: 250px;
 }
 .queEs .col-sm>img {
@@ -36,7 +36,7 @@ queEs{
     background-color: #008cff;
     color: white;
   }
-  @media (min-width: 310px) and (max-width:500px) {
+@media (min-width: 310px) and (max-width:500px) {
     .queEs {
         height: 600px;
         padding-left: 15px;
@@ -46,8 +46,9 @@ queEs{
         width: 280px;
         height: 250px;
     }
-    #colombia-covid {
-    padding-bottom: 300px;
+}
+#colombia-covid {
+  padding-bottom: 300px;
 }
 footer {
     background-color: #0c27a8;
