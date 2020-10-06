@@ -1,0 +1,49 @@
+.icono>img {
+    width: 10%;
+    height: 10%;
+}
+.icono>h1 {
+    display: inline;
+    font-size: 3em;
+}
+.navbar-light {
+    background-color: #0c27a8 !important;
+    align-items: left;
+}
+.navbar-light li a {
+    color: white !important;
+}
+.navbar-light li a:hover {
+    background-color: #2586d7;
+    margin-top: -2;
+    padding-bottom: 12px;
+}
+queEs{
+    height: 250px;
+}
+.queEs .col-sm>img {
+    width: 660px;
+    height: 250px;
+}
+.queEs .col-sm {
+    padding-bottom: 5px;
+}
+.queEs .col-sm>p {
+    font-size: 1em;
+    font-family: Arial, 'sans-serif';
+}
+.verMas {
+    background-color: #008cff;
+    color: white;
+  }
+  @media (min-width: 310px) and (max-width:500px) {
+    .queEs {
+        height: 600px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .queEs .col-sm>img {
+        width: 280px;
+        height: 250px;
+    }
+}
